@@ -1,5 +1,7 @@
 ## Product/Engineering Health Check
 
+[[health-check.png|healthcheck]]
+
 * 1 - 2   Poor, We don’t do this, or we do it very poorly, needs major improvement
 * 3 - 4   Not Great, We’re really not great at this
 * 5 - 6   Ok, We do things well, but there are areas that need improvement which we’re aware of
