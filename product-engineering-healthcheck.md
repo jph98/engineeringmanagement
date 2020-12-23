@@ -1,10 +1,10 @@
 ## Product/Engineering Health Check
 
-1 - 2   Poor, We don’t do this, or we do it very poorly, needs major improvement
-3 - 4   Not Great, We’re really not great at this
-5 - 6   Ok, We do things well, but there are areas that need improvement which we’re aware of
-7 - 9   Good, We’re good at this, there’s few areas in which we could improve
-10      Amazing, We’re really great at this
+* 1 - 2   Poor, We don’t do this, or we do it very poorly, needs major improvement
+* 3 - 4   Not Great, We’re really not great at this
+* 5 - 6   Ok, We do things well, but there are areas that need improvement which we’re aware of
+* 7 - 9   Good, We’re good at this, there’s few areas in which we could improve
+* 10      Amazing, We’re really great at this
 
 ## Roadmap and Prioritisation 
 
