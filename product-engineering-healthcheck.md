@@ -6,9 +6,9 @@
 * 7 - 9   Good, We’re good at this, there’s few areas in which we could improve
 * 10      Amazing, We’re really great at this
 
-## Roadmap and Prioritisation 
+## Area 1: Roadmap and Prioritisation 
 
-### Product Roadmap
+### Product Roadmap
 
 Does a product roadmap exist?
 How well do we break product roadmap items down into actionable work?
@@ -20,18 +20,18 @@ Does a platform roadmap exist for the product detailing how it will evolve?
 How do you record and model large technical debt items?
 Do you have a process for monitoring technology trends, evaluating and adopting technology for competitive advantage?
 
-### Prioritisation Meeting
+### Prioritisation Meeting
 
 Do you hold prioritisation meetings to discuss and negotiate product and platform items?
 Do you have a standard prioritisation technique for product items?
 
-## Team Roles
+## Area 2: Team Roles
 
 Do product managers attend daily meetings?
 Do QA’s, product managers and engineers discuss work prior to development (via a refinement meeting or other)?
 Do QA’s product managers and engineers attend planning sessions for development?
 
-## Specification
+## Area 3: Specification
 
 ### Delivery
 
@@ -60,13 +60,13 @@ Do you have clear acceptance criteria for signing work off?
 Do you include technical considerations with respect to non-functional attributes in the work items?
 Does work follow the INVEST mnemonic (Independent, Negotiable, Valuable, Estimable, Small, Testable) or a similar standard?
 
-## Completion
+## Area 4: Completion
 
 ### Definition of Done
 
 Is there a definition of done for the team that is used to ensure work is completed according to a standard?
 
-### Demo and Success
+### Demo and Success
 
 Do you hold demos/reviews of the completed functionality?
 Does the team celebrate success for completed work?
