@@ -103,10 +103,10 @@ How do we handle failures for downstream services (as part of a workflow?)
 
 ## Performance
 
-What are the latency requirements for the service in terms of response time?
+- What are the latency requirements for the service in terms of response time?
 
-How do we handle rate limiting if required for the service to prevent system outages?
+- How do we handle rate limiting if required for the service to prevent system outages?
 
-How do we scale the service out? Vertical or horizontal scaling?
+- How do we scale the service out? Vertical or horizontal scaling?
 
-How many users do we need to support with the service?
+- How many users do we need to support with the service?
