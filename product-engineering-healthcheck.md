@@ -10,9 +10,9 @@
 
 ### Product Roadmap
 
-Does a product roadmap exist?
-How well do we break product roadmap items down into actionable work?
-Do we involve multiple roles in this process (PM’s, engineers)?
+- Does a product roadmap exist?
+- How well do we break product roadmap items down into actionable work?
+- Do we involve multiple roles in this process (PM’s, engineers)?
 
 ### Platform Roadmap
 
