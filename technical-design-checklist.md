@@ -1,29 +1,29 @@
 ## Operational 
 
-How do we provision the infrastructure required for the service?
+- How do we provision the infrastructure required for the service?
 
-How do we deploy the service?
+- How do we deploy the service?
 
-Network level deployment - cloud VPC, subnet etc...
+- Network level deployment - cloud VPC, subnet etc...
 
-How do we upgrade the service?
+- How do we upgrade the service?
 
-How do we handle versioning of the service in terms of the API and build?
+- How do we handle versioning of the service in terms of the API and build?
 
-How do we carry out configuration management (e.g. env vars or something else)?
+- How do we carry out configuration management (e.g. env vars or something else)?
 
-How do we carry out configuration management for different environments?
+- How do we carry out configuration management for different environments?
 
 
 ## Structural
 
-How do we manage dependencies of libraries, frameworks and other services?
+- How do we manage dependencies of libraries, frameworks and other services?
 
-How do we perform common build file (run, test, lint etc…) commands?
+- How do we perform common build file (run, test, lint etc…) commands?
 
-Does this service need to be included in other services?
+- Does this service need to be included in other services?
 
-Does the service have a repository or sit in a repository with other services?
+- Does the service have a repository or sit in a repository with other services?
 
 
 ## Data
